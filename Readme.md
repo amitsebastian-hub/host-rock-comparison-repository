@@ -56,4 +56,4 @@ Full table with all 10 criteria and sources: [`data/comparison-table.csv`](data/
 
 **Amit George Sebastian** – M.Sc. Mineral Resources Engineering (Repository Design and Operational Safety), RWTH Aachen University
 
-[LinkedIn](https://www.linkedin.com/in/amit-george-sebastian-7114472b6/) · [Email](amitonline815@gmail.com)
+[LinkedIn]-[https://www.linkedin.com/in/amit-george-sebastian-7114472b6/] · [Email](amitonline815@gmail.com)
