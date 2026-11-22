@@ -41,7 +41,7 @@ Full table with all 10 criteria and sources: [`data/comparison-table.csv`](data/
 ├── README.md              ← project summary (this file)
 ├── data/                  ← comparison table with sources
 ├── report/                ← brief (PDF)
-├── figures/               ← diagrams
+├── diagrams/               ← diagrams
 └── sources/               ← reading list and references
 ```
 
